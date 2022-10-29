@@ -5,7 +5,9 @@ thinking of opening a surfboards and ice cream shop in Oahu, Hawaii with W.Avy w
 # Result
 W.Avy wants the weather analysis for the month June and December
 Here is a png file for the temperature of June and December 
-https://github.com/feven27/surfs_up/issues/1#issue-1424543754
+![December Temp](https://user-images.githubusercontent.com/110137693/198852686-fb043a6b-b54c-4989-b08b-c3f656065dbb.png)
+![June Temp](https://user-images.githubusercontent.com/110137693/198852687-83665e74-a5b8-471a-8122-01162c56fcbb.png)
+
 
 # summary
 it would be profitable opening ice cream shop in Oahu, Hawaii. As we can see in the png file in the month of june and december the tempreture doesnt have tha much of diffrence 
